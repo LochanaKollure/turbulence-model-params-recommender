@@ -1,0 +1,12 @@
+pinecone-client==3.0.0
+openai>=1.54.0
+streamlit>=1.31.0
+requests>=2.31.0
+PyPDF2==3.0.1
+sentence-transformers>=2.2.2
+python-dotenv>=1.0.1
+pydantic>=2.6.1
+pydantic-settings>=2.2.1
+numpy>=1.24.3
+pandas>=2.0.3
+tiktoken>=0.5.2
